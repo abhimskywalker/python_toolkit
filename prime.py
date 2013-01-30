@@ -9,7 +9,8 @@ def isPrime(n):
     return True
 
 def primeList(n):
-    
+    [True]*n+1
+
 
 '''public boolean[] sieve(int n)
 {
